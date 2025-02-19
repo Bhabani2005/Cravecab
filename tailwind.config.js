@@ -5,14 +5,15 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      screens: {
+        'custom':{'max':'900px'}
+      },
+      colors:{
+        'text':'#6d6d6d'
+      }
+    },
   },
-  plugins: [require('@tailwindcss/typography')],
-
-  extend: {
-    backgroundImage:{
-      'hero':"url('../public/header_img.png')"
-    }
-  }
+  plugins: [],
 }
 
