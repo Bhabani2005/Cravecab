@@ -1,0 +1,13 @@
+#explore-menu-list::-webkit-scrollbar{
+    display: none;
+}
+#explore-menulist-img{
+    cursor:pointer;
+    border-radius: 50%;
+    transition: 0.2s;
+}
+#explore-menu-list-items .active{
+    border: 4px solid tomato;
+    padding: 2px;
+    transition:smooth ;
+}

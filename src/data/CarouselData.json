@@ -1,0 +1,24 @@
+{
+    "slides": [
+      {
+        "src": "https://img.freepik.com/free-photo/top-view-burger-orange-background_23-2148235104.jpg?size=626&ext=jpg&ga=GA1.1.1069854491.1720521190&semt=ais_hybrid",
+        "alt": "Image 1 for carousel"
+      },
+      {
+        "src": "https://img.freepik.com/free-photo/delicious-meal-table_23-2150857956.jpg?t=st=1728241270~exp=1728244870~hmac=6029cb15e1d9e09c29bcfef4fde67cfb454a539eed7562ac55a6a8c5ff66f98d&w=1380",
+        "alt": "Image 2 for carousel"
+      },
+      {
+        "src": "https://img.freepik.com/free-photo/view-ready-eat-delicious-meal-go_23-2151431768.jpg?t=st=1728240926~exp=1728244526~hmac=036eb782b0b88e47055a060d75b4941a1d864f98b91934783d412b16324fa9ea&w=1380",
+        "alt": "Image 3 for carousel"
+      },
+      {
+        "src":"https://plus.unsplash.com/premium_photo-1661432769134-758550b8fedb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cmVzdGF1cmFudCUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D",
+        "alt":"Image 4 for carousel"
+      },
+      {
+        "src":"https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "alt":"Image 5 for carousel"
+      }
+    ]
+  }
